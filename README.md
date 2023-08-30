@@ -9,7 +9,7 @@ We're using a special setup called CRNN to pull out text from captcha images. It
 
 <img src="https://miro.medium.com/v2/resize:fit:1400/1*rzAN2Iq534Nt8hfd_Q8Afw.png">
 
-# Loggin Model Performance
+# Log Model Performance
 To see how good the model was getting, I used a tool called "weights and biases" (wandb). This let me look closely at different settings that control how the model learns. I went through each setting, tried out new ones, and adjusted things to make the model work well in different cases. I also explained about "weights and biases" in the notebook to make sure it's clear. You can view here how log works: https://wandb.ai/ai-viper/CAPTCHA-CRACKER?workspace=user-bishowlamsal233
 
 
